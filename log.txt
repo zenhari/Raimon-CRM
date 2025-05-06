@@ -1,0 +1,18 @@
+[2025-05-06 17:39:10] شروع حذف کاربر...
+[2025-05-06 17:39:10] شناسه دریافتی: 1
+[06-May-2025 17:39:10 Europe/Berlin] PHP Notice:  Undefined variable: imagePath in C:\xampp\htdocs\Raimon-CRM\pages\delete_user.php on line 41
+[2025-05-06 17:39:10] مسیر فایل برای حذف: 
+[2025-05-06 17:39:10] فایل عکس حذف شد: C:\xampp\htdocs\Raimon-CRM\uploads\user_681a1d412c126.png
+[2025-05-06 17:39:10] حذف موفقیت‌آمیز کاربر id=1
+[2025-05-06 17:41:00] شروع حذف کاربر...
+[2025-05-06 17:41:00] شناسه دریافتی: 2
+[06-May-2025 17:41:00 Europe/Berlin] PHP Notice:  Undefined variable: imagePath in C:\xampp\htdocs\Raimon-CRM\pages\delete_user.php on line 41
+[2025-05-06 17:41:00] مسیر فایل برای حذف: 
+[2025-05-06 17:41:00] فایل عکس حذف شد: C:\xampp\htdocs\Raimon-CRM\uploads\user_681a2d5440d08.png
+[2025-05-06 17:41:00] حذف موفقیت‌آمیز کاربر id=2
+[2025-05-06 17:44:01] شروع حذف کاربر...
+[2025-05-06 17:44:01] شناسه دریافتی: 3
+[06-May-2025 17:44:01 Europe/Berlin] PHP Notice:  Undefined variable: imagePath in C:\xampp\htdocs\Raimon-CRM\pages\delete_user.php on line 41
+[2025-05-06 17:44:01] مسیر فایل برای حذف: 
+[2025-05-06 17:44:01] فایل عکس حذف شد: C:\xampp\htdocs\Raimon-CRM\uploads\user_681a2db49f2ac.png
+[2025-05-06 17:44:01] حذف موفقیت‌آمیز کاربر id=3
